@@ -35,7 +35,7 @@ int main()
     }
 
 
-    int newsize=0;-
+    int newsize=0;
 
     for(int i=0;i<size;i++)
     {
